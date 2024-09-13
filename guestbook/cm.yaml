@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: guestbook-ui-config
+data:
+  welcome_message: "Welcome to Argo CD!
+  background_color: "lightblue"
